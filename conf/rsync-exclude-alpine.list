@@ -1,0 +1,8 @@
+aarch64
+armhf
+armv7
+ppc64le
+s390x
+v2.*/
+v3.[0-6]/
+

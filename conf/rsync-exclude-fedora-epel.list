@@ -1,0 +1,6 @@
+epel/[4-6]*/
+epel/[4-6]/
+epel/testing/
+ppc64/
+ppc64le/
+aarch64/

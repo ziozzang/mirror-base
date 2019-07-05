@@ -1,0 +1,8 @@
+dists/experimental/
+dists/buste*/
+dists/rc-*/
+dists/proposed-*/
+dists/test*/
+dists/unstabl*/
+dists/sid/
+dists/sid*/
